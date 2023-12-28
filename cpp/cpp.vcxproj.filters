@@ -52,6 +52,8 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="input.txt" />
+    <Text Include="input.txt">
+      <Filter>data</Filter>
+    </Text>
   </ItemGroup>
 </Project>
